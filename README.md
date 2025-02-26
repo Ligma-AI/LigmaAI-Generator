@@ -91,23 +91,3 @@ POSTGRES_URL_NO_SSL="postgres://postgres:xxxxx@localhost:5432/localdb"
 POSTGRES_USER="postgres"
 ```
 
-
-#### 5. Run it
-
-```
-pnpm dev
-```
-
-#### 6. open http://localhost:3000 for preview
-
-![fluximage.org](https://pub-f5fc00c4ca7b445d95004c53d4b77e82.r2.dev/images/%E6%88%AA%E5%B1%8F2024-08-16%2011.42.05.png "Flux AI Image Generator")
-
-
-
-## Link Me
-
-Twitter: [https://x.com/candytools118](https://x.com/candytools118)
-
-if this project is helpful to you, buy me a coffee.
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/wuyasong)
