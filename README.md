@@ -1,8 +1,8 @@
-# Flux AI Image Generator
+# LigmaAI Generator
 
-Flux Image AI is an AI-powered image generation platform built using Next.js and the Flux.1 AI model. The platform allows users to create high-quality images from text prompts quickly and easily. It also features a prompt generator to help optimize image creation prompts.
+LigmaAI is an AI-powered image generation platform built using Next.js and the Flux.1 AI model. The platform allows users to create high-quality images from text prompts quickly and easily. It also features a prompt generator to help optimize image creation prompts.
 
-visit it ☞: [fluximage.org](https://fluximage.org)
+visit it ☞: https://ligma-ai.net
 
 
 ## Features
@@ -23,16 +23,10 @@ Styling: TailwindCSS
 Template: Radix UI & Preline UI
 
 
-## Quick Started
-
-Deploy on Vercel (Don't forget to setup env)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/volume988/flux-ai-image-webui.git&project-name=flux-ai-image&repository-name=flux-ai-image)
-
 #### 1. Clone project
 
 ```
-git clone https://github.com/volume988/flux-ai-image-webui.git
+git clone https://github.com/Ligma-ai/LigmaAI-Generator
 ```
 
 #### 2. Install dependencies
